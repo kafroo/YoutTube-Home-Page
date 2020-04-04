@@ -1,12 +1,14 @@
 ># YouTube Home Page 
 ># Home Page
->## Body ##
 >## Head ##
 >> -Head tag which include the title of the page which name "YouTube" and it's icon beside it
 
 >> -Link the css file in index page 
 
 >> -close the head tag and open the body tag
+
+>## Body ##
+
 >## Header ##
 >> -menu button
 
