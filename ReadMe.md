@@ -5,8 +5,8 @@
 >> -Head tag which include the title of the page which name "YouTube" and it's icon beside it
 >> -Link the css file in index page 
 >> -close the head tag and open the body tag
-## Body ##
-## Header ##
+>## Body ##
+>## Header ##
 >> -menu button
 >> -YouTube Logo
 >> -search field
@@ -16,7 +16,7 @@
 >> -notification button
 >> -SignIn button 
 
-## Side-bar DIV ##
+>## Side-bar DIV ##
 >> -Home, Trending, and Subscriptions Buttons
 >> -Library - History Buttons
 >> -SignIn Button 
@@ -29,5 +29,5 @@
 >> -Test new features Button
 >> -The Copyright
 
-##  content DIV ##
+>##  Content DIV ##
 >> -Videos of the content 
